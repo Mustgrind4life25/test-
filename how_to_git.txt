@@ -1,0 +1,14 @@
+main function is to use team base coding:
+
+- 1st create a empty repository
+- open a cmd propmpt or open a gitbash terminal
+- cd into the folder you want to create the blank repository in
+- type git init 
+- initialize the files to the repository
+- type touch (filename)
+- add files to repository
+- how to check if files have been added to repo
+type git status
+- this shows what files untracked but are ready to be committed to the repo
+- to add the files now type the following
+git add .
